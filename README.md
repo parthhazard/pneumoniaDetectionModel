@@ -4,7 +4,7 @@ This is jupyter notebook uses two CNN models to detect pneumonia using lung-xray
 
 The libraries used here are:
 
-"sklearn" for preprocessing and encoding data.
+"sklearn" for preprocessing and encoding data,
 "keras" and "tensorflow" for creating and training the model.
 
 The data was used locally here.
